@@ -1,0 +1,1 @@
+# ba-ar-durumu-hesapla
